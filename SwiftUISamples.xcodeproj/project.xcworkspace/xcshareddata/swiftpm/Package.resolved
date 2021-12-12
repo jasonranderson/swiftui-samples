@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "HardwareConnectionFramework",
+        "repositoryURL": "https://github.com/Kosoku/HardwareConnectionFramework",
+        "state": {
+          "branch": "data-model",
+          "revision": "6b856daeb7cb585ebf0fb8668a084b875496a105",
+          "version": null
+        }
+      },
+      {
         "package": "SwiftyUserDefaults",
         "repositoryURL": "https://github.com/sunshinejr/SwiftyUserDefaults.git",
         "state": {

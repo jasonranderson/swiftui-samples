@@ -21,7 +21,7 @@ struct ItemListView: View {
                     .onDelete(perform: viewModel.removeItem)
                 }.listStyle(.plain)
                 Button("Add") {
-                    viewModel.addItem(text: "some new item")
+                    viewModel.addItem(text: "item")
                 }
             }.toolbar {
                 EditButton()
